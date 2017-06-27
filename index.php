@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Practice</title>
-        <link rel="stylesheet" href="css/bootstrap.min.css"/>>
+        <link rel="stylesheet" href="css/bootstrap.min.css"/>
         <link rel="stylesheet" href="css/stylesheet.css"/>
     </head>
     
